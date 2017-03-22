@@ -7,7 +7,11 @@ We annotate 23 attributes for [Duke](https://github.com/layumi/Duke_evaluation),
 which  is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/). 
 The original dataset contains 702 identities for training and 1110 identities for testing. 
 The attributes are annotated in the identity level, 
+<<<<<<< HEAD
 thus the file contains 23 x 702 attributes for training and 23 x 1110 for test. Note that the though there are 7 and 8 attributes for lower-body clothing and upper-body clothing, only one color is labeled as yes(2) for an identity.
+=======
+thus the file contains 23 x 702 attributes for training and 23 x 1110 for test.
+>>>>>>> origin/master
 
 The 23 attributes are: 
 
@@ -28,9 +32,12 @@ The 23 attributes are:
 
 ![](sample_image.jpg)
 
+<<<<<<< HEAD
 ## Evaluation
 To evaluate, you need to predict the attributes for test data(i.e., 17661x10 matrix) and save them in advance. "gallery_duke.mat" is one prediction example. Then download the code "evaluate_duke_attribute.m" in this repository, change the image path and run it to evaluate.
 
+=======
+>>>>>>> origin/master
 ## Cite
 
 If you use this dataset in your research, please kindly cite our work as,
