@@ -15,18 +15,18 @@ The 23 attributes are:
 | length of upper-body clothing | top | short upper body clothing(1), long(2)    |
 | wearing boots| boots| no(1), yes(2)    |
 | wearing hat| hat | no(1), yes(2) |
-| carring backpack| backpack | no(1), yes(2) |
-| carring bag| bag | no(1), yes(2) |
-| carring handbag| handbag | no(1), yes(2) |
+| carrying backpack| backpack | no(1), yes(2) |
+| carrying bag| bag | no(1), yes(2) |
+| carrying handbag| handbag | no(1), yes(2) |
 | color of shoes| shoes | dark(1), light(2) |
 | 8 color of upper-body clothing| upblack, upwhite, upred, uppurple, upgray, upblue, upgreen, upbrown | no(1), yes(2) |
 | 7 color of lower-body clothing| downblack, downwhite, downred, downgray, downblue, downgreen, downbrown | no(1), yes(2) |
 
-##Sample
+## Sample
 
 ![](sample_image.jpg)
 
-##cite
+## Cite
 
 If you use this dataset in your research, please kindly cite our work as,
 ```
@@ -38,6 +38,6 @@ If you use this dataset in your research, please kindly cite our work as,
 }
 ```
 
-##Acknowledgement
+## Acknowledgement
 
 We thank Dr. Gao for annotating part of the dataset.
