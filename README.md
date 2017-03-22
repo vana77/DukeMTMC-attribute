@@ -1,5 +1,7 @@
 # Duke_Attribute
 
+The evaluation code will be added soon.
+
 ## About dataset
 We annotate 23 attributes for [Duke](https://github.com/layumi/Duke_evaluation), 
 which  is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/). 
