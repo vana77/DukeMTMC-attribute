@@ -5,7 +5,7 @@ We annotate 23 attributes for [Duke](https://github.com/layumi/Duke_evaluation),
 which  is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/). 
 The original dataset contains 702 identities for training and 1110 identities for testing. 
 The attributes are annotated in the identity level, 
-thus the file contains 23x702 attributes for training and 23x1110 for test.
+thus the file contains 23 x 702 attributes for training and 23 x 1110 for test.
 
 The 23 attributes are: 
 
