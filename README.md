@@ -41,6 +41,12 @@ DukeMTMC-reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/vana
 
 DukeMTMC-attribute [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/citation_attribute.txt)
 
+## Dataset Licence
+
+Please follow the [DukeMTMC LICENSE](https://github.com/vana77/DukeMTMC-attribute/blob/master/DukeMTMC_LICENSE.txt). You are free to share, creat and share the dataset, in the manner specified in the license.
+
+The DukeMTMC-attribute evaluation code is under the MIT License.
+
 ## Acknowledgement
 
 We thank Dr. Gao for annotating part of the dataset.
