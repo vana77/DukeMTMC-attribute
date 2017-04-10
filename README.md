@@ -37,15 +37,11 @@ To evaluate, you need to predict the attributes for test data(i.e., 17661 x 10 m
 
 ## Cite
 
-If you use this dataset in your research, please kindly cite our work as,
-```
-@article{lin2017improving,
-  title={Improving Person Re-identification by Attribute and Identity Learning},
-  author={lin, Yutian and Zheng, Liang and Zheng, Zhedong and, Wu Yu and, Yang, Yi},
-  journal={arXiv preprint arXiv:1703.07220},
-  year={2017}
-}
-```
+DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/citation_dataset.txt)
+
+DukeMTMC-reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/citation_protocol.txt)
+
+DukeMTMC-attribute [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/citation_attribute.txt)
 
 ## Acknowledgement
 
