@@ -1,0 +1,41 @@
+ATTRIBUTION PROTOCOL
+
+If you use the DukeMTMC-attribute data or any data derived from it, please cite the original work as follows:
+
+@article{lin2017improving,
+  title={Improving Person Re-identification by Attribute and Identity Learning},
+  author={lin, Yutian and Zheng, Liang and Zheng, Zhedong and, Wu Yu and, Yang, Yi},
+  journal={arXiv preprint arXiv:1703.07220},
+  year={2017}
+}
+
+and include this license and attribution protocol within any derivative work.
+
+
+If you use the DukeMTMC data or any data derived from it, please cite the original work as follows:
+
+@inproceedings{ristani2016MTMC,
+  title =        {Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking},
+  author =       {Ristani, Ergys and Solera, Francesco and Zou, Roger and Cucchiara, Rita and Tomasi, Carlo},
+  booktitle =    {European Conference on Computer Vision workshop on Benchmarking Multi-Target Tracking},
+  year =         {2016}
+}
+
+and include this license and attribution protocol within any derivative work.
+
+
+The DukeMTMC-attribute dataset is derived from DukeMTMC dataset (http://vision.cs.duke.edu/DukeMTMC/).
+
+The DukeMTMC-attribute dataset is made available under the Open Data Commons Attribution License (https://opendatacommons.org/licenses/by/1.0/) and for academic use only.
+
+READABLE SUMMARY OF Open Data Commons Attribution License 
+
+You are free:
+
+    To Share: To copy, distribute and use the database.
+    To Create: To produce works from the database.
+    To Adapt: To modify, transform and build upon the database.
+
+As long as you:
+
+    Attribute: You must attribute any public use of the database, or works produced from the database, in the manner specified in the license. For any use or redistribution of the database, or works produced from it, you must make clear to others the license of the database and keep intact any notices on the original database.
