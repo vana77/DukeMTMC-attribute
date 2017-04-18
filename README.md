@@ -35,15 +35,16 @@ To evaluate, you need to predict the attributes for test data(i.e., 17661 x 10 m
 
 ## Cite
 
-DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/citation_dataset.txt)
+DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/CITATION_DukeMTMC.txt)
 
-DukeMTMC-reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/citation_protocol.txt)
+DukeMTMC-reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/CITATION_DukeMTMC-reID.txt)
 
-DukeMTMC-attribute [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/citation_attribute.txt)
+DukeMTMC-attribute [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/CITATION_DukeMTMC-attribute.txt)
 
 ## Dataset Licence
+Please follow the [LICENSE_DukeMTMC-attribute](https://github.com/vana77/DukeMTMC-attribute/blob/master/LICENSE_DukeMTMC-attribute.txt). You are free to share, create and adapt the DukeMTMC-reID dataset, in the manner specified in the license.
 
-Please follow the [DukeMTMC LICENSE](https://github.com/vana77/DukeMTMC-attribute/blob/master/DukeMTMC_LICENSE.txt). You are free to share, creat and share the dataset, in the manner specified in the license.
+We also include the [LICENSE_DukeMTMC](https://github.com/vana77/DukeMTMC-attribute/blob/master/LICENSE_DukeMTMC.txt). If you want to share, create and adapt the DukeMTMC dataset, please follow this license.
 
 The DukeMTMC-attribute evaluation code is under the MIT License.
 
