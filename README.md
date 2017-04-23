@@ -30,7 +30,7 @@ Note that the though there are 7 and 8 attributes for lower-body clothing and up
 ![](sample_image.jpg)
 
 ## Evaluation
-To evaluate, you need to predict the attributes for test data(i.e., 17661 x 10 matrix) and save them in advance. "gallery_duke.mat" is one prediction example. Then download the code "evaluate_duke_attribute.m" in this repository, change the image path and run it to evaluate.
+To evaluate, please repfer to the code [here](https://github.com/vana77/Market-1501_Attribute)
 
 
 ## Cite
