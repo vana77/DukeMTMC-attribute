@@ -1,4 +1,4 @@
-# DukeMTMC-attribute
+# DukeMTMC-Attribute
 
 ## About dataset
 
