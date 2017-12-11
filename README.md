@@ -33,7 +33,7 @@ Note that the though there are 7 and 8 attributes for lower-body clothing and up
 To evaluate, please repfer to the code [here](https://github.com/vana77/Market-1501_Attribute)
 
 
-## Cite
+## Citation
 
 DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/vana77/DukeMTMC-attribute/master/CITATION_DukeMTMC.txt)
 
