@@ -11,7 +11,6 @@ If you use the DukeMTMC-attribute data or any data derived from it, please cite 
 
 and include this license and attribution protocol within any derivative work.
 
-
 If you use the DukeMTMC data or any data derived from it, please cite the original work as follows:
 
 @inproceedings{ristani2016MTMC,
@@ -23,19 +22,23 @@ If you use the DukeMTMC data or any data derived from it, please cite the origin
 
 and include this license and attribution protocol within any derivative work.
 
+If you publish data derived from DukeMTMC, the original dataset creators should first be notified. 
+Any future dataset derived from DukeMTMC should include "DukeMTMC" in the title, as well as link to the 
+original project website (http://vision.cs.duke.edu/DukeMTMC/).
 
-The DukeMTMC-attribute dataset is derived from DukeMTMC dataset (http://vision.cs.duke.edu/DukeMTMC/).
+The DukeMTMC dataset is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
 
-The DukeMTMC-attribute dataset is made available under the Open Data Commons Attribution License (https://opendatacommons.org/licenses/by/1.0/) and for academic use only.
+You are free to:
 
-READABLE SUMMARY OF Open Data Commons Attribution License 
+    Share — copy and redistribute the material in any medium or format
+    Adapt — remix, transform, and build upon the material 
 
-You are free:
+Under the following terms:
 
-    To Share: To copy, distribute and use the database.
-    To Create: To produce works from the database.
-    To Adapt: To modify, transform and build upon the database.
+    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-As long as you:
+    NonCommercial — You may not use the material for commercial purposes.
 
-    Attribute: You must attribute any public use of the database, or works produced from the database, in the manner specified in the license. For any use or redistribution of the database, or works produced from it, you must make clear to others the license of the database and keep intact any notices on the original database.
+    ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+    No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
