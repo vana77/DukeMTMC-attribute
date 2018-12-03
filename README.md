@@ -5,7 +5,8 @@
 We annotate 23 attributes for [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation), 
 which  is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/). 
 The original dataset contains 702 identities for training and 1110 identities for testing. 
-The attributes are annotated in the identity level, thus the file contains 23 x 702 attributes for training and 23 x 1110 for test.
+The attributes are annotated in the identity level, thus the file contains 24 x 702 attributes for training and 24 x 1110 for test, where the label "image_index" denotes the identity. 
+The annotations are contained in the file duke_attribute.mat.
 
 
 The 23 attributes are: 
